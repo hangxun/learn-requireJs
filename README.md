@@ -3,12 +3,6 @@
 
 ## 基本的目录组织方式
 
-* index.html
-
-
-
-## 解决页面加载是，加载模块失败的3种解决办法
-
 * index.html  
 * resource
     * app
@@ -26,6 +20,9 @@
         * css.min.js
     * main.js
     * require.js
+
+
+## 解决页面加载是，加载模块失败的3种解决办法
 
 
 ```js
